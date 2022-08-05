@@ -1,2 +1,0 @@
-weather_api_key="55ff2b9fb68b3de716193ff81b894734"
-goo_API_key="AIzaSyAlPXAEDrMuqXXLLsrp4P4M39VTZeRVX_o"
